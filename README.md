@@ -68,5 +68,4 @@ As part of this multivariate analysis project, the following statistical and inf
 
 ## 🤝 Contact
 
-For inquiries or collaborations, feel free to reach out via [GitHub Issues](https://github.com/OmarAhmedWahby).
-
+For inquiries or collaborations, feel free to reach out via [Omar Ahmed](https://www.linkedin.com/in/omarwahby/).
